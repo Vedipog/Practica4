@@ -1,2 +1,2 @@
-## Actualización Practica4_1
-Se ha añadido un nuevo método en `Principal.java` para mostrar la fecha y la hora actual del sistema utilizando la clase `LocalDateTime`.
+## Actualización Practica4_1B
+Se ha creado una nueva clase `Usuario` con atributos públicos. En el programa principal se ha implementado la creación de un array de usuarios de manera dinámica usando la entrada por consola (`Scanner`), y posteriormente se imprimen los datos recolectados.
